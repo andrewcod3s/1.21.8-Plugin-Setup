@@ -1,0 +1,4 @@
+name: startupwizard
+version: '1.0'
+main: me.andrew.startupwizard.Startupwizard
+api-version: '1.21'
